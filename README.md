@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Zaidan 👋</h1>
+<h1 align="center">Zaidan Mir</h1>
 
 <p align="center">
   <em>Final-year BSc Computer Science · Kingston University · Targeting AI/ML MSc for Sept 2026</em>
