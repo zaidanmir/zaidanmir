@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+ML+from+first+principles;Pure+NumPy.+No+autograd.+No+shortcuts.;Bridging+the+maths+gap+the+hard+way&font=Fira+Code&center=true&width=520&height=45&color=58a6ff&vCenter=true&size=18&pause=1200" alt="Typing SVG" />
+  <img src="travelyn_banner.png" alt="Travelyn AI banner" width="800" />
 </p>
 
 ---
