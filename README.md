@@ -1,7 +1,7 @@
 <h1 align="center">Zaidan Mir</h1>
 
 <p align="center">
-  <em>Final-year BSc Computer Science · Kingston University · Targeting AI/ML MSc for Sept 2026</em>
+  <em>BSc Computer Science · Targeting AI/ML MSc for Sept 2026</em>
 </p>
 
 <p align="center">
