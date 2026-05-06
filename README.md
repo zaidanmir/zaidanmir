@@ -86,5 +86,4 @@ iOS commuter app integrating four live UK transport APIs (TfL, National Rail Dar
 ---
 
 <p align="center">
-  <em>"I would rather earn the mathematics than route around it."</em>
 </p>
