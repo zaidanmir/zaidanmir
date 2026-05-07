@@ -75,13 +75,6 @@ My CS degree is software-engineering heavy — no formal modules in linear algeb
   <img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/From%20Scratch-FF6B35?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pure%20NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hand--Derived%20Maths-4B0082?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-</p>
-
 ---
 
 ### 🌟 Featured Projects
