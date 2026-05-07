@@ -25,55 +25,20 @@ My CS degree is software-engineering heavy — no formal modules in linear algeb
 
 ### 🛠️ Tech Stack
 
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" />
-</p>
-
-<p align="center"><b>ML & Math</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" />
-</p>
-
-<p align="center"><b>Web & Mobile</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" />
-</p>
-
-<p align="center"><b>Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" />
-</p>
-
-<p align="center"><b>Cloud</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" />
-</p>
-
-<p align="center"><b>DevOps & Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" />
-</p>
-
-<p align="center"><b>Operating Systems</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" />
-</p>
-
-<p align="center"><b>Hardware</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" />
-</p>
-
-<p align="center"><b>Game & 3D</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" />
-</p>
-
-<p align="center"><b>Creative</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" />
-</p>
+<div align="center">
+<table>
+  <tr><td align="right"><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=python,java,js,cpp,c,cs,kotlin,swift,rust,ruby,php,perl,ocaml,r&theme=dark" /></td></tr>
+  <tr><td align="right"><b>ML &amp; Math</b></td><td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,matlab&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Web &amp; Mobile</b></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,npm,vercel,svg,flutter&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,supabase,firebase&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Cloud</b></td><td><img src="https://skillicons.dev/icons?i=aws,azure,gcp,cloudflare&theme=dark" /></td></tr>
+  <tr><td align="right"><b>DevOps &amp; Tools</b></td><td><img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,bash,powershell,vim,vscode,visualstudio,pycharm&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Operating Systems</b></td><td><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,mint,kali&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Hardware</b></td><td><img src="https://skillicons.dev/icons?i=arduino,raspberrypi&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Game &amp; 3D</b></td><td><img src="https://skillicons.dev/icons?i=unity,unreal,robloxstudio,blender&theme=dark" /></td></tr>
+  <tr><td align="right"><b>Creative</b></td><td><img src="https://skillicons.dev/icons?i=figma,ps,pr,autocad&theme=dark" /></td></tr>
+</table>
+</div>
 
 ---
 
