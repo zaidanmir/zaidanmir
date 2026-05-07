@@ -67,14 +67,6 @@ iOS commuter app integrating four live UK transport APIs (TfL, National Rail Dar
 
 ---
 
-### 📊 Most-Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidanmir&layout=compact&theme=github_dark&hide_border=true&langs_count=8&card_width=400" alt="Top Languages" />
-</p>
-
----
-
 ### 🎓 Currently Learning
 
 | Course | Provider | Focus |
